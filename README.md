@@ -1,0 +1,1 @@
+# maysa-config-server
